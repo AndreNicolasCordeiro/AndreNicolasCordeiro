@@ -1,7 +1,8 @@
 ### Bem Vindo! Eu sou o André Nicolas Cordeiro 👋
 
-- 🔭 Estudante de Front-End
-- 🌱 Estudando Typescript
+Programador Front-End |Web Designer
+Engenheiro de Software 2|8
+- Estudando atualmente Typescript
 
 <div>
   <a href="https://github.com/AndreNicolasCordeiro">
