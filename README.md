@@ -1,6 +1,6 @@
 ### Bem Vindo! Eu sou o André Nicolas Cordeiro 👋
 
-Programador Front-End |Web Designer
+Programador Front-End |Web Designer <br/>
 Engenheiro de Software 2|8
 - Estudando atualmente Typescript
 
