@@ -1,7 +1,7 @@
 ### Welcome! I am André Nicolas Cordeiro 👋
 
 Developer Front-End and Web Designer <br/>
-Software Engineering  2|8
+Software Engineering  3|8
 
 Studying: Javascript, Typescript, NextJs, StyledComponents and PostgreeSQL.
 
